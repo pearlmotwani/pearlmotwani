@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pearlmotwani
-- 👀 I’m interested in proramming,analytics and management
+- 👀 I’m interested in proramming, analytics and management
 - 🌱 I’m currently learning machine learning and artificial intelligence
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me -> Email ID: pearlmotwani@gmail.com
